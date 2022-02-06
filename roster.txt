@@ -1,0 +1,99 @@
+2022/02/06 16:16:28 Name %s New Jersey Devils
+2022/02/06 16:16:28 Name %s New York Islanders
+2022/02/06 16:16:28 Name %s New York Rangers
+2022/02/06 16:16:28 Name %s Philadelphia Flyers
+2022/02/06 16:16:28 Name %s Pittsburgh Penguins
+2022/02/06 16:16:28 Name %s Boston Bruins
+2022/02/06 16:16:28 Name %s Buffalo Sabres
+2022/02/06 16:16:28 Name %s Montréal Canadiens
+2022/02/06 16:16:28 Name %s Ottawa Senators
+2022/02/06 16:16:28 Name %s Toronto Maple Leafs
+2022/02/06 16:16:28 Name %s Carolina Hurricanes
+2022/02/06 16:16:28 Name %s Florida Panthers
+2022/02/06 16:16:28 Name %s Tampa Bay Lightning
+2022/02/06 16:16:28 Name %s Washington Capitals
+2022/02/06 16:16:28 Name %s Chicago Blackhawks
+2022/02/06 16:16:28 Name %s Detroit Red Wings
+2022/02/06 16:16:28 Name %s Nashville Predators
+2022/02/06 16:16:28 Name %s St. Louis Blues
+2022/02/06 16:16:28 Name %s Calgary Flames
+2022/02/06 16:16:28 Name %s Colorado Avalanche
+2022/02/06 16:16:28 Name %s Edmonton Oilers
+2022/02/06 16:16:28 Name %s Vancouver Canucks
+2022/02/06 16:16:28 Name %s Anaheim Ducks
+2022/02/06 16:16:28 Name %s Dallas Stars
+2022/02/06 16:16:28 Name %s Los Angeles Kings
+2022/02/06 16:16:28 Name %s San Jose Sharks
+2022/02/06 16:16:28 Name %s Columbus Blue Jackets
+2022/02/06 16:16:28 Name %s Minnesota Wild
+2022/02/06 16:16:28 Name %s Winnipeg Jets
+2022/02/06 16:16:28 Name %s Arizona Coyotes
+2022/02/06 16:16:28 Name %s Vegas Golden Knights
+2022/02/06 16:16:28 Name %s Seattle Kraken
+2022/02/06 16:16:28 took 279.2456ms
+2022/02/06 16:21:30 Name New Jersey Devils
+2022/02/06 16:21:30 Name New York Islanders
+2022/02/06 16:21:30 Name New York Rangers
+2022/02/06 16:21:30 Name Philadelphia Flyers
+2022/02/06 16:21:30 Name Pittsburgh Penguins
+2022/02/06 16:21:30 Name Boston Bruins
+2022/02/06 16:21:30 Name Buffalo Sabres
+2022/02/06 16:21:30 Name Montréal Canadiens
+2022/02/06 16:21:30 Name Ottawa Senators
+2022/02/06 16:21:30 Name Toronto Maple Leafs
+2022/02/06 16:21:30 Name Carolina Hurricanes
+2022/02/06 16:21:30 Name Florida Panthers
+2022/02/06 16:21:30 Name Tampa Bay Lightning
+2022/02/06 16:21:30 Name Washington Capitals
+2022/02/06 16:21:30 Name Chicago Blackhawks
+2022/02/06 16:21:30 Name Detroit Red Wings
+2022/02/06 16:21:30 Name Nashville Predators
+2022/02/06 16:21:30 Name St. Louis Blues
+2022/02/06 16:21:30 Name Calgary Flames
+2022/02/06 16:21:30 Name Colorado Avalanche
+2022/02/06 16:21:30 Name Edmonton Oilers
+2022/02/06 16:21:30 Name Vancouver Canucks
+2022/02/06 16:21:30 Name Anaheim Ducks
+2022/02/06 16:21:30 Name Dallas Stars
+2022/02/06 16:21:30 Name Los Angeles Kings
+2022/02/06 16:21:30 Name San Jose Sharks
+2022/02/06 16:21:30 Name Columbus Blue Jackets
+2022/02/06 16:21:30 Name Minnesota Wild
+2022/02/06 16:21:30 Name Winnipeg Jets
+2022/02/06 16:21:30 Name Arizona Coyotes
+2022/02/06 16:21:30 Name Vegas Golden Knights
+2022/02/06 16:21:30 Name Seattle Kraken
+2022/02/06 16:21:30 took 352.2984ms
+2022/02/06 16:21:47 Name New Jersey Devils
+2022/02/06 16:21:47 Name New York Islanders
+2022/02/06 16:21:47 Name New York Rangers
+2022/02/06 16:21:47 Name Philadelphia Flyers
+2022/02/06 16:21:47 Name Pittsburgh Penguins
+2022/02/06 16:21:47 Name Boston Bruins
+2022/02/06 16:21:47 Name Buffalo Sabres
+2022/02/06 16:21:47 Name Montréal Canadiens
+2022/02/06 16:21:47 Name Ottawa Senators
+2022/02/06 16:21:47 Name Toronto Maple Leafs
+2022/02/06 16:21:47 Name Carolina Hurricanes
+2022/02/06 16:21:47 Name Florida Panthers
+2022/02/06 16:21:47 Name Tampa Bay Lightning
+2022/02/06 16:21:47 Name Washington Capitals
+2022/02/06 16:21:47 Name Chicago Blackhawks
+2022/02/06 16:21:47 Name Detroit Red Wings
+2022/02/06 16:21:47 Name Nashville Predators
+2022/02/06 16:21:47 Name St. Louis Blues
+2022/02/06 16:21:47 Name Calgary Flames
+2022/02/06 16:21:47 Name Colorado Avalanche
+2022/02/06 16:21:47 Name Edmonton Oilers
+2022/02/06 16:21:47 Name Vancouver Canucks
+2022/02/06 16:21:47 Name Anaheim Ducks
+2022/02/06 16:21:47 Name Dallas Stars
+2022/02/06 16:21:47 Name Los Angeles Kings
+2022/02/06 16:21:47 Name San Jose Sharks
+2022/02/06 16:21:47 Name Columbus Blue Jackets
+2022/02/06 16:21:47 Name Minnesota Wild
+2022/02/06 16:21:47 Name Winnipeg Jets
+2022/02/06 16:21:47 Name Arizona Coyotes
+2022/02/06 16:21:47 Name Vegas Golden Knights
+2022/02/06 16:21:47 Name Seattle Kraken
+2022/02/06 16:21:47 took 101.7226ms

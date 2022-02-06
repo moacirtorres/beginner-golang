@@ -1,8 +1,10 @@
 package main
 
 import (
+	"fmt"
 	"io"
 	"log"
+	"nhlApiDemo/nhlApi"
 	"os"
 	"time"
 )
@@ -28,7 +30,7 @@ func main() {
 	}
 
 	for _, team := range teams {
-		log.Println("Name %s", team.name)
+		fmt.Println("Name %s", team.Name)
 	}
 
 	log.Printf("took %v", time.Now().Sub(now).String())
